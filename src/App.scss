@@ -1,0 +1,22 @@
+@import url("https://fonts.googleapis.com/css?family=Muli&display=swap");
+@import url("https://fonts.googleapis.com/css?family=Lato:300,400&display=swap");
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  background: #efefbb;
+  background: -webkit-linear-gradient(to right, #d4d3dd, #efefbb);
+  background: linear-gradient(to right, #d4d3dd, #efefbb);
+
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  font-family: "Lato";
+  margin: 0;
+}
+
+.title {
+  text-align: center;
+}
